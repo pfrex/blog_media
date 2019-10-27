@@ -1,0 +1,37 @@
+
+.navBar{
+    text-align: center;
+    width: 100vw;
+    height: 50vh;
+    color: black;
+    background-origin: border-box;     
+    background-clip: border-box;
+    background-color: black;
+    background-image: url(bike_bar.png);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 100vw 50vh;
+}
+
+
+.interSpace{
+    padding: 64px;
+}
+
+/*
+.imgClass{
+    width: 100vw;
+    height: 700px;
+}
+*/
+/*background-origin: border-box;*/        
+/*background-color: black;*/   
+/*background-image: url(bike_bar.png);*/   
+/*background-position: center;*/
+/*background-repeat: no-repeat;*/   
+/*background-size: cover;*/   
+
+
+
+ 
