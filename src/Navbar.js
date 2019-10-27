@@ -7,7 +7,7 @@ import React from "react";
 let content = "Welcome to Nathan's blog";
 
 console.log("This content is different from the master branch.");
-
+console.log("This should be pushing to the add_form branch.");
 
 function Navbar() {
     return (
