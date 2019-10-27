@@ -11,6 +11,7 @@ console.log("This should be pushing to the add_form branch.");
 
 console.log("The pull operation worked, now how to push to a feature branch?");
 
+console.log("Before dinner push to feature branch.");
 
 function Navbar() {
     return (
