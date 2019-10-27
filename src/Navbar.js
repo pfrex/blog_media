@@ -13,6 +13,8 @@ console.log("The pull operation worked, now how to push to a feature branch?");
 
 console.log("This should put add_form ahead of master?");
 
+console.log("This should put add_form ahead of master 1?");
+
 function Navbar() {
     return (
       <nav className="p-3 bg-primary text-black text-center">
