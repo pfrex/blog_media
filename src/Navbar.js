@@ -6,6 +6,7 @@ import React from "react";
 // get this looking good on mobile, remove the picture if neccesary 
 let content = "Welcome to Nathan's blog";
 
+console.log("This content is different from the master branch.");
 
 
 function Navbar() {
