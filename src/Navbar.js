@@ -9,6 +9,8 @@ let content = "Welcome to Nathan's blog";
 console.log("This content is different from the master branch.");
 console.log("This should be pushing to the add_form branch.");
 
+console.log("The pull operation worked, now how to push to a feature branch?");
+
 function Navbar() {
     return (
       <nav className="p-3 bg-primary text-black text-center">
